@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "category": "Lunch",
+        "difficulty": "Medium",
+        "cookingTime": 50,
+        "servings": 4,
+        "image": "/images/chicken-biryani.jpg",
+        "ingredients": [
+            "500g chicken",
+            "2 cups basmati rice",
+            "2 onions",
+            "2 tomatoes",
+            "Ginger garlic paste",
+            "Biryani masala",
+            "Salt",
+            "Oil",
+            "Mint leaves",
+            "Coriander leaves"
+        ],
+        "instructions": [
+            "Wash and soak the basmati rice.",
+            "Marinate the chicken with spices and yogurt.",
+            "Fry onions until golden brown.",
+            "Cook the chicken with tomatoes and spices.",
+            "Add the soaked rice and required water.",
+            "Cook until the rice is fully done.",
+            "Garnish with mint and coriander leaves.",
+            "Serve hot."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chocolate Cake",
+        "category": "Dessert",
+        "difficulty": "Easy",
+        "cookingTime": 40,
+        "servings": 6,
+        "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+        "ingredients": [
+            "2 cups flour",
+            "1 cup sugar",
+            "1/2 cup cocoa powder",
+            "2 eggs",
+            "1 cup milk",
+            "1/2 cup butter",
+            "1 teaspoon baking powder",
+            "1 teaspoon vanilla essence"
+        ],
+        "instructions": [
+            "Preheat the oven.",
+            "Mix flour, cocoa powder and baking powder.",
+            "Beat eggs, sugar, butter and vanilla.",
+            "Combine the wet and dry ingredients.",
+            "Pour the mixture into a cake pan.",
+            "Bake for about 40 minutes.",
+            "Allow the cake to cool.",
+            "Serve and enjoy."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Paneer Butter Masala",
+        "category": "Dinner",
+        "difficulty": "Hard",
+        "cookingTime": 40,
+        "servings": 4,
+        "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=800&q=80",
+        "ingredients": [
+            "500g paneer",
+            "2 tomatoes",
+            "1 onion",
+            "Butter",
+            "Salt"
+        ],
+        "instructions": [
+            "Chop the vegetables.",
+            "Heat butter in a pan.",
+            "Cook the vegetables.",
+            "Add paneer and cook well.",
+            "Add salt and spices.",
+            "Serve hot with naan or rice."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Pasta",
+        "category": "Dinner",
+        "difficulty": "Easy",
+        "cookingTime": 25,
+        "servings": 2,
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=800&q=80",
+        "ingredients": [
+            "200g pasta",
+            "2 tomatoes",
+            "1 onion",
+            "2 cloves garlic",
+            "Olive oil",
+            "Salt",
+            "Pepper",
+            "Cheese"
+        ],
+        "instructions": [
+            "Boil the pasta until soft.",
+            "Chop the onion, tomatoes and garlic.",
+            "Heat olive oil in a pan.",
+            "Cook the onion and garlic.",
+            "Add tomatoes and spices.",
+            "Add the cooked pasta.",
+            "Mix everything well.",
+            "Add cheese and serve hot."
+        ]
+    }
+]
